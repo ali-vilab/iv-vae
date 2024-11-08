@@ -45,7 +45,7 @@ Variational Autoencoder (VAE) aims to compress pixel data into low-dimensional l
 
 ### Download Trained Models <a name="41"></a> 
 
-You can download all the trained models here  ([Google Drive]( https://drive.google.com))
+You can download all the trained models here  ([Modelscope](https://modelscope.cn/models/wpy1999/iv-vae/files))
 
 ### Video reconstruction <a name="42"></a> 
 
