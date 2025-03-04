@@ -1,6 +1,6 @@
 # Improved Video VAE For Latent Video Diffusion Model
 
-PyTorch implementation of ''Improved Video VAE For Latent Video Diffusion Model''.
+PyTorch implementation of ''Improved Video VAE For Latent Video Diffusion Model [CVPR2025]''.
 
 ## 📋 Table of content
  1. [📎 Paper Link](#1)
